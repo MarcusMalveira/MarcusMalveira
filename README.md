@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcus Malveira
 
-<!--
-**MarcusMalveira/MarcusMalveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas para Internet (IFAC)  
+💻 Focado em desenvolvimento web  
+🚀 Buscando primeira oportunidade na área  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Java
+- PHP
+- JavaScript
+- Python
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- Sistema de login (PHP + MySQL)
+- Projetos acadêmicos
+
+## 📫 Contato
+Email: Marcus.malveira410@gmail.com
