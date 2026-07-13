@@ -16,4 +16,4 @@
 - Projetos acadêmicos
 
 ## 📫 Contato
-Email: Marcus.malveira410@gmail.com
+Email: Marcus.malveira1@gmail.com
