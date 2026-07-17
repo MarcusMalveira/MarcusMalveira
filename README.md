@@ -22,4 +22,4 @@
 
 ## 📫 Contato
 
-📧 **Email:** [Marcus.malveira1@gmail.com]
+📧 **Email:** [Marcus.malveira1@gmail.com](mailto:Marcus.malveira1@gmail.com)
