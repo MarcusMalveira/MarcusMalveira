@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Marcus Malveira
 
-🎓 **Tecnólogo em Sistemas para Internet** (cursando) no IFAC
-💼 **Técnico em Informática para Internet**
-💻 Desenvolvedor com foco em desenvolvimento web e aplicações back-end
-🚀 Buscando crescer na área de desenvolvimento de software
+🎓 **Tecnólogo em Sistemas para Internet** (cursando) no IFAC\n
+💼 **Técnico em Informática para Internet**\n
+💻 Desenvolvedor com foco em desenvolvimento web e aplicações back-end\n
+🚀 Buscando crescer na área de desenvolvimento de software\n
 
 ## 🛠 Tecnologias
 
