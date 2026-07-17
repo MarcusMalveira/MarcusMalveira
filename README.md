@@ -1,19 +1,25 @@
 # 👋 Olá, eu sou o Marcus Malveira
 
-🎓 Estudante de Sistemas para Internet (IFAC)  
-💻 Focado em desenvolvimento web  
-🚀 Buscando primeira oportunidade na área  
+🎓 **Tecnólogo em Sistemas para Internet** (cursando) no IFAC
+💼 **Técnico em Informática para Internet**
+💻 Desenvolvedor com foco em desenvolvimento web e aplicações back-end
+🚀 Buscando crescer na área de desenvolvimento de software
 
 ## 🛠 Tecnologias
-- Java
-- PHP
-- JavaScript
-- Python
-- HTML & CSS
+
+* Java
+* PHP
+* JavaScript
+* Python
+* HTML & CSS
+* MySQL
 
 ## 📌 Projetos em destaque
-- Sistema de login (PHP + MySQL)
-- Projetos acadêmicos
+
+* 🔐 Sistema de Login (PHP + MySQL)
+* 🗳️ Sistema de Urna Eletrônica (JavaScript)
+* 📚 Projetos acadêmicos desenvolvidos durante a graduação
 
 ## 📫 Contato
-Email: Marcus.malveira1@gmail.com
+
+📧 **Email:** [Marcus.malveira1@gmail.com]
