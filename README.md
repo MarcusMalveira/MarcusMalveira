@@ -34,7 +34,6 @@ Aplicação de e-commerce demonstrativo desenvolvida com PHP, MySQL, HTML, CSS e
 
 🌐 [Acessar a TechLoja](https://loja-ecommerce-omega.vercel.app/)
 
-*Repositório de código atualmente privado.*
 
 ### 🛍️ [Sistema de Loja — Versão Acadêmica](https://github.com/MarcusMalveira/Loja)
 
