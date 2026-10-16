@@ -19,7 +19,7 @@ Gosto de aprender colocando a mão na massa! Desenvolvo projetos acadêmicos e p
 
 ## 🚀 Projetos em destaque
 
-### 🛒 [TechLoja — E-commerce Full Stack](https://loja-ecommerce-omega.vercel.app/)
+### 🛒 [TechLoja — E-commerce Full Stack](https://github.com/MarcusMalveira/loja-ecommerce)
 
 Aplicação de e-commerce demonstrativo desenvolvida com PHP, MySQL, HTML, CSS e JavaScript.
 
